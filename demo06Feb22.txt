@@ -1,0 +1,2 @@
+Thus is ademo for index8 html file to push the code changes to git repo
+from local repo
